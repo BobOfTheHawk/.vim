@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 💤 BobOfTheHawk’s Vim Configuration
 
@@ -122,5 +120,5 @@ Feel free to fork, modify, and share improvements!
 
 ---
 
-Would you like me to include **badges** (like “Made with ❤️ in Vim” or “Powered by fzf”) and add a screenshot preview section at the top?
+“Made with Bob in Vim” or “Powered by fzf”
 ```
