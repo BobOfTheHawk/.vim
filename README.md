@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # 💤 BobOfTheHawk’s Vim Configuration
 
@@ -9,6 +11,8 @@ This repository contains all configuration files for Vim, split by purpose for e
 ## 📁 Folder Structure
 
 ```
+
+---
 
 .vim/
 ├── colors.vim       # Theme and color scheme settings
