@@ -1,5 +1,6 @@
 |Shutout to my friend Guts |                     
 
+---
 
 ```markdown
 # 💤 BobOfTheHawk’s Vim Configuration
